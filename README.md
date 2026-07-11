@@ -15,11 +15,12 @@ Payments
 
 The Power BI report uses this data to create interactive dashboards that provide insights into delivery performance, customer activity, restaurant performance, and payment trends.
 
-Files Included
+# Files Included
 File	Purpose
 QuickBite_Delivery.sql	Creates the database, tables, and inserts sample data into MySQL.
 QuickBite Delivery project.pbix	Power BI report connected to the QuickBite database.
-Software Requirements
+
+# Software Requirements
 
 Before opening the project, install:
 
