@@ -1,6 +1,6 @@
 # QuickBite-Delivery-Co.-SQL-Power-BI-Project
 
-## Project Overview
+# Project Overview
 
 This project analyses data for QuickBite Delivery, a fictional food delivery company. It combines a MySQL database with a Power BI dashboard to demonstrate database design, SQL data management, and business intelligence reporting.
 
