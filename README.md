@@ -42,7 +42,7 @@ Create the database
 Create all required tables
 Insert sample data
 
-# Step 2 – Verify the Database
+## Step 2 – Verify the Database
 
 After running the script, check that the following tables exist:
 
@@ -59,12 +59,12 @@ USE quickbite_db;
 
 SHOW TABLES;
 
-# Step 3 – Open the Power BI Report
+## Step 3 – Open the Power BI Report
 Open Power BI Desktop.
 Open:
 QuickBite Delivery project.pbix
 
-# Step 4 – Update the Data Source (if required)
+## Step 4 – Update the Data Source (if required)
 
 If Power BI cannot find your MySQL database:
 
@@ -73,7 +73,7 @@ Select Data Source Settings.
 Change the server/database connection to your MySQL instance.
 Refresh the data.
 
-# Step 5 – Refresh the Report
+## Step 5 – Refresh the Report
 
 Click Refresh to load the latest data from the MySQL database.
 
